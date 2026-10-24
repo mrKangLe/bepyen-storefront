@@ -1,0 +1,39 @@
+{
+  "name": "Bếp Yến Ocean – Vinhomes Ocean Park",
+  "short_name": "Bếp Yến Ocean",
+  "description": "Yến chưng tươi cách thủy giao nóng 20 phút nội khu Vinhomes Ocean Park. Đặt món và giao nóng tận sảnh/căn hộ.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#F9F5EA",
+  "theme_color": "#72161A",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

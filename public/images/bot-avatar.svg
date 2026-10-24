@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Background Outer Ring Gradient -->
+    <linearGradient id="goldRim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE082"/>
+      <stop offset="25%" stop-color="#FFB300"/>
+      <stop offset="50%" stop-color="#FFF9C4"/>
+      <stop offset="75%" stop-color="#FFA000"/>
+      <stop offset="100%" stop-color="#D79A20"/>
+    </linearGradient>
+
+    <!-- Deep Royal Red Background -->
+    <radialGradient id="bgRoyal" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#991B1B"/>
+      <stop offset="60%" stop-color="#7F1D1D"/>
+      <stop offset="100%" stop-color="#450A0A"/>
+    </radialGradient>
+
+    <!-- Áo Dài Crimson Gradient -->
+    <linearGradient id="aoDai" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B91C1C"/>
+      <stop offset="50%" stop-color="#881337"/>
+      <stop offset="100%" stop-color="#4C0519"/>
+    </linearGradient>
+
+    <!-- Chef Toque Hat Gradient -->
+    <linearGradient id="chefHat" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#FEF3C7"/>
+      <stop offset="100%" stop-color="#FDE68A"/>
+    </linearGradient>
+
+    <!-- Skin Gradient -->
+    <radialGradient id="skin" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#FFEEDD"/>
+      <stop offset="85%" stop-color="#FAD0C4"/>
+      <stop offset="100%" stop-color="#F6BBA8"/>
+    </radialGradient>
+
+    <!-- Steaming Jar Amber Glow -->
+    <radialGradient id="jarGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFBEB"/>
+      <stop offset="40%" stop-color="#FDE68A"/>
+      <stop offset="80%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </radialGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="glowShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#450A0A" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Rim / Golden Medallion Ring -->
+  <circle cx="64" cy="64" r="62" fill="url(#goldRim)"/>
+  <circle cx="64" cy="64" r="58" fill="#581C87" opacity="0.1"/>
+  <circle cx="64" cy="64" r="57" fill="url(#bgRoyal)"/>
+  
+  <!-- Concentric Royal Pattern Ring -->
+  <circle cx="64" cy="64" r="56" stroke="url(#goldRim)" stroke-width="0.75" stroke-dasharray="2,2" opacity="0.6"/>
+
+  <!-- Body / Áo Dài Collar & Shoulders -->
+  <g filter="url(#glowShadow)">
+    <!-- Shoulders -->
+    <path d="M22 120 C22 96, 38 86, 64 86 C90 86, 106 96, 106 120 Z" fill="url(#aoDai)"/>
+    <!-- Áo Dài Golden Trim Collar -->
+    <path d="M50 86 Q64 96 78 86 Q64 99 50 86 Z" fill="url(#goldRim)"/>
+    <!-- Center Button Clasp (Khuy Áo Cung Đình) -->
+    <circle cx="64" cy="94" r="2" fill="#FEF08A"/>
+    <circle cx="64" cy="101" r="1.8" fill="#FEF08A"/>
+    <circle cx="64" cy="108" r="1.8" fill="#FEF08A"/>
+    
+    <!-- Neck -->
+    <rect x="58" y="72" width="12" height="16" rx="4" fill="url(#skin)"/>
+  </g>
+
+  <!-- Hair Back Bun -->
+  <circle cx="64" cy="46" r="23" fill="#1C1917"/>
+  <circle cx="64" cy="34" r="11" fill="#292524"/>
+
+  <!-- Golden Lotus Hairpin (Trâm Cài Hoa Sen) -->
+  <path d="M72 32 L84 27" stroke="url(#goldRim)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="85" cy="26" r="3" fill="#FDE047"/>
+  <path d="M85 24 C87 22, 88 26, 85 26 C82 26, 83 22, 85 24 Z" fill="#F59E0B"/>
+
+  <!-- Head / Face -->
+  <ellipse cx="64" cy="56" rx="16" ry="19" fill="url(#skin)"/>
+
+  <!-- Cute Bangs / Side Hair Strands -->
+  <path d="M48 48 C49 40, 56 38, 64 38 C72 38, 79 40, 80 48 C76 43, 68 41, 64 42 C60 41, 52 43, 48 48 Z" fill="#1C1917"/>
+  <path d="M47 50 C46 56, 47 64, 49 67 C48 62, 47 55, 48 50 Z" fill="#1C1917"/>
+  <path d="M81 50 C82 56, 81 64, 79 67 C80 62, 81 55, 80 50 Z" fill="#1C1917"/>
+
+  <!-- Eyes & Eyebrows (Warm, Friendly, Sparkling) -->
+  <!-- Eyebrows -->
+  <path d="M53 50 Q58 48 61 50" stroke="#44403C" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <path d="M67 50 Q70 48 75 50" stroke="#44403C" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+  <!-- Eyes with sparkle -->
+  <ellipse cx="57" cy="55" rx="2.5" ry="3.2" fill="#1C1917"/>
+  <ellipse cx="71" cy="55" rx="2.5" ry="3.2" fill="#1C1917"/>
+  <circle cx="56.2" cy="54" r="1" fill="#FFFFFF"/>
+  <circle cx="70.2" cy="54" r="1" fill="#FFFFFF"/>
+  <circle cx="57.8" cy="56.5" r="0.5" fill="#FFFFFF"/>
+  <circle cx="71.8" cy="56.5" r="0.5" fill="#FFFFFF"/>
+
+  <!-- Soft Pink Blush (Má Hồng Dễ Thương) -->
+  <circle cx="52" cy="61" r="3.5" fill="#FDA4AF" opacity="0.55"/>
+  <circle cx="76" cy="61" r="3.5" fill="#FDA4AF" opacity="0.55"/>
+
+  <!-- Gentle Warm Smile (Nụ Cười Thân Thiện) -->
+  <path d="M60 63 Q64 68 68 63" stroke="#BE123C" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Chef Toque Hat (Mũ Bếp Trưởng Hoàng Gia) -->
+  <g filter="url(#glowShadow)">
+    <!-- Base band -->
+    <rect x="52" y="32" width="24" height="6" rx="2" fill="url(#goldRim)"/>
+    <rect x="54" y="33" width="20" height="4" rx="1" fill="#FFFBEB"/>
+    <!-- Crown Puff / Plumes -->
+    <path d="M52 32 C50 24, 56 16, 64 16 C72 16, 78 24, 76 32 Z" fill="url(#chefHat)"/>
+    <path d="M56 32 C55 26, 60 20, 64 20 C68 20, 73 26, 72 32" stroke="#FDE68A" stroke-width="1" fill="none"/>
+    <!-- Small Red Ruby on Chef Band -->
+    <circle cx="64" cy="35" r="1.5" fill="#B91C1C"/>
+  </g>
+
+  <!-- Steaming Golden Jar of Bird's Nest (Hũ Yến Chưng Bốc Khói Thơm Lừng) -->
+  <g filter="url(#glowShadow)">
+    <!-- Jar Base Glow -->
+    <ellipse cx="64" cy="106" rx="14" ry="12" fill="url(#jarGlow)" opacity="0.95" stroke="#FDE68A" stroke-width="1.2"/>
+    <!-- Gold Jar Lid -->
+    <rect x="56" y="94" width="16" height="3" rx="1" fill="url(#goldRim)"/>
+    <rect x="58" y="93" width="12" height="1.5" rx="0.75" fill="#FFFBEB"/>
+    <!-- Bird's Nest Strands Texture Inside Jar -->
+    <path d="M55 106 Q64 103 73 106" stroke="#D97706" stroke-width="1" stroke-linecap="round" fill="none"/>
+    <path d="M57 109 Q64 107 71 109" stroke="#B45309" stroke-width="0.8" stroke-linecap="round" fill="none"/>
+    <!-- Red Jujube / Goji berry dot inside -->
+    <circle cx="61" cy="104" r="1.8" fill="#DC2626"/>
+    <circle cx="67" cy="104.5" r="1.4" fill="#EA580C"/>
+
+    <!-- Delicate Rising Steam Waves (Làn Khói Nóng) -->
+    <path d="M60 91 C58 87, 61 83, 59 79" stroke="#FEF3C7" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.8"/>
+    <path d="M64 90 C66 85, 63 81, 65 77" stroke="#FFFBEB" stroke-width="1.4" stroke-linecap="round" fill="none" opacity="0.9"/>
+    <path d="M68 91 C70 87, 67 83, 69 80" stroke="#FEF3C7" stroke-width="1.2" stroke-linecap="round" fill="none" opacity="0.8"/>
+  </g>
+
+  <!-- Sparkles / Ánh Sao Hoàng Gia -->
+  <g fill="#FDE047">
+    <!-- Top Left Sparkle -->
+    <path d="M26 36 Q26 40 22 40 Q26 40 26 44 Q26 40 30 40 Q26 40 26 36 Z"/>
+    <!-- Top Right Sparkle -->
+    <path d="M102 42 Q102 46 98 46 Q102 46 102 50 Q102 46 106 46 Q102 46 102 42 Z"/>
+    <!-- Jar Sparkle -->
+    <circle cx="78" cy="98" r="1.2" fill="#FFFFFF"/>
+    <circle cx="50" cy="101" r="1" fill="#FEF08A"/>
+  </g>
+</svg>

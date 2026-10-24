@@ -1,0 +1,350 @@
+@import "tailwindcss";
+
+:root {
+  --red-primary: #72161A;
+  --red-deep:    #460A0D;
+  --red-imperial:#5C0E12;
+  --red-light:   #9E2328;
+  --gold:        #C59B27;
+  --gold-light:  #E8C96A;
+  --gold-pale:   #F7EDD0;
+  --gold-antique:#9B7A20;
+  --jade-deep:   #1A3C34;
+  --jade-light:  #2C5E52;
+  --agarwood:    #24140D;
+  --agarwood-deep:#180D08;
+  --parchment:   #F9F5EA;
+  --parchment-dark: #EFE6D2;
+  --paper:       #FFFBF2;
+  --ink:         #23140E;
+  --ink-light:   #5C3A2A;
+  --vermilion:   #B82E24;
+  --background:  var(--parchment);
+  --foreground:  var(--ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-red-primary: var(--red-primary);
+  --color-gold: var(--gold);
+}
+
+* { 
+  box-sizing: border-box; 
+}
+
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
+  width: 100%;
+  overscroll-behavior-x: none;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
+  width: 100%;
+  overscroll-behavior-x: none;
+  touch-action: pan-y pinch-zoom;
+  position: relative;
+  background: var(--parchment);
+  color: var(--ink);
+  font-family: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  background-image: radial-gradient(rgba(197, 155, 39, 0.08) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+.font-heading {
+  font-family: 'Playfair Display', 'Noto Serif', Georgia, serif;
+}
+
+.font-body {
+  font-family: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ── Triện Son Đỏ (Imperial Red Seal) ────────────────────────── */
+.imperial-seal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1.5px solid #A82520;
+  background: rgba(184, 46, 36, 0.08);
+  color: #B82E24;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 1px rgba(184, 46, 36, 0.3);
+  position: relative;
+  border-radius: 4px;
+}
+.imperial-seal::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  border: 0.5px solid rgba(184, 46, 36, 0.35);
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+/* ── Dấu Triện Sơn Tròn ───────────────────────────────────────── */
+.imperial-seal-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #B82E24;
+  background: #B82E24;
+  color: #FFF8DC;
+  font-weight: 900;
+  border-radius: 9999px;
+  box-shadow: 0 2px 8px rgba(184, 46, 36, 0.25);
+}
+
+/* ── Thẻ Giấy Dó Cổ Điển (Parchment Card) ─────────────────────── */
+.parchment-card {
+  background: #FFFDF9;
+  border: 1px solid #DFD5C0;
+  box-shadow: 0 4px 20px rgba(58, 20, 10, 0.05), 0 1px 3px rgba(0,0,0,0.02);
+  position: relative;
+}
+.parchment-card::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  border: 1px solid rgba(197, 155, 39, 0.25);
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* ── Góc Hoa Văn Cung Đình (Corner Brackets) ──────────────────── */
+.corner-ornament {
+  position: relative;
+}
+.corner-ornament::before,
+.corner-ornament::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-color: var(--gold);
+  border-style: solid;
+  pointer-events: none;
+  opacity: 0.7;
+}
+.corner-ornament::before {
+  top: 6px;
+  left: 6px;
+  border-width: 2px 0 0 2px;
+}
+.corner-ornament::after {
+  bottom: 6px;
+  right: 6px;
+  border-width: 0 2px 2px 0;
+}
+
+/* ── Hộp Gỗ Sơn Mài Thượng Hạng (Imperial Lacquer Box) ───────── */
+.lacquer-wood-card {
+  background: linear-gradient(135deg, #2D080B 0%, #460A0D 40%, #5C0E12 80%, #300609 100%);
+  border: 1.5px solid var(--gold);
+  box-shadow: 0 10px 35px rgba(35, 6, 8, 0.4), inset 0 0 15px rgba(197, 155, 39, 0.15);
+}
+
+/* ── Auspicious Cloud SVG pattern ─────────────────────────────── */
+.cloud-pattern {
+  background-color: var(--red-primary);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='none' stroke='%23C9A84C' stroke-width='0.6' opacity='0.25'%3E%3Cpath d='M10 40 Q10 28 22 28 Q22 18 34 20 Q36 12 46 16 Q54 10 60 20 Q70 18 70 30 Q78 32 74 40 Q78 48 70 50 Q70 62 58 60 Q56 68 44 64 Q36 70 28 62 Q18 64 16 54 Q8 52 10 40Z'/%3E%3Cpath d='M5 15 Q5 9 11 9 Q11 4 17 5 Q18 1 23 3 Q27 0 30 5 Q34 4 34 9 Q38 10 36 14 Q38 19 34 20 Q33 24 27 23 Q25 27 20 25 Q15 27 13 23 Q9 24 8 20 Q4 19 5 15Z' transform='translate(40,45) scale(0.7)'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.cloud-pattern-light {
+  background-color: var(--parchment);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cg fill='none' stroke='%23C9A84C' stroke-width='0.8' opacity='0.15'%3E%3Cpath d='M15 60 Q15 42 33 42 Q33 27 51 30 Q54 18 69 24 Q81 15 90 30 Q105 27 105 45 Q117 48 111 60 Q117 72 105 75 Q105 93 87 90 Q84 102 66 96 Q54 105 42 93 Q27 96 24 81 Q12 78 15 60Z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* ── Gold border glow ─────────────────────────────────────────── */
+.gold-border { border: 1px solid var(--gold); }
+.gold-glow { box-shadow: 0 0 20px rgba(201,168,76,0.3), 0 4px 20px rgba(139,26,26,0.15); }
+
+/* ── Card flip ────────────────────────────────────────────────── */
+.flip-card {
+  perspective: 1200px;
+  -webkit-perspective: 1200px;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+  transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
+  will-change: transform;
+}
+.flip-card.is-flipped .flip-card-inner {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+}
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.flip-card-front {
+  transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  z-index: 2;
+  pointer-events: auto;
+}
+.flip-card-back {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  z-index: 1;
+  pointer-events: none;
+}
+.flip-card.is-flipped .flip-card-front {
+  pointer-events: none;
+  z-index: 1;
+}
+.flip-card.is-flipped .flip-card-back {
+  pointer-events: auto;
+  z-index: 3;
+}
+
+/* ── Scrollbar thin ───────────────────────────────────────────── */
+.thin-scroll::-webkit-scrollbar { width: 4px; }
+.thin-scroll::-webkit-scrollbar-track { background: transparent; }
+.thin-scroll::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 4px; }
+
+/* ── Pulse animation for VIP badge ───────────────────────────── */
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(201,168,76,0.6); }
+  50%       { box-shadow: 0 0 0 8px rgba(201,168,76,0); }
+}
+.pulse-gold { animation: pulse-gold 2s ease-in-out infinite; }
+
+/* ── Shimmer for VIP card ─────────────────────────────────────── */
+@keyframes shimmer {
+  0%   { background-position: -200% center; }
+  100% { background-position:  200% center; }
+}
+.shimmer-text {
+  background: linear-gradient(90deg, #C9A84C 25%, #FFF8DC 50%, #C9A84C 75%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 3s linear infinite;
+}
+
+/* ── Zalo button bounce ───────────────────────────────────────── */
+@keyframes bounce-in {
+  0%   { transform: scale(0.85); opacity: 0; }
+  60%  { transform: scale(1.05); }
+  100% { transform: scale(1);    opacity: 1; }
+}
+.bounce-in { animation: bounce-in 0.4s ease forwards; }
+
+/* ── Mobile tap active state ──────────────────────────────────── */
+.tap-active:active { transform: scale(0.97); transition: transform 0.1s; }
+
+/* ── Decorative divider ───────────────────────────────────────── */
+.eastern-divider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--gold);
+  font-size: 18px;
+}
+.eastern-divider::before,
+.eastern-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
+
+/* ── Marquee banner animation ──────────────────────────────────── */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+.animate-marquee {
+  display: inline-flex;
+  animation: marquee 22s linear infinite;
+}
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* ── Typography & Layout cho Cẩm Nang Bếp Yến ───────────── */
+.article-content p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+  color: #2b2520;
+}
+.article-content h2,
+.article-content h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  color: var(--red-primary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.35;
+}
+.article-content h2 {
+  font-size: 1.35rem;
+  border-bottom: 1px dashed rgba(197, 155, 39, 0.4);
+  padding-bottom: 0.35rem;
+}
+.article-content h3 {
+  font-size: 1.15rem;
+}
+.article-content ul,
+.article-content ol {
+  margin-left: 1.25rem;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+.article-content ul {
+  list-style-type: disc;
+}
+.article-content ol {
+  list-style-type: decimal;
+}
+.article-content li {
+  margin-bottom: 0.35rem;
+}
+.article-content strong {
+  color: #1a080a;
+  font-weight: 700;
+}
+.article-content em {
+  color: var(--red-deep);
+  font-style: italic;
+}
+.article-content .lead {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #3b2f28;
+  border-left: 3px solid var(--gold);
+  padding-left: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+/* ── Ẩn thanh compiling / dev indicator của Next.js ───────────── */
+nextjs-portal,
+[data-nextjs-dev-indicator],
+[data-nextjs-toast],
+div[data-nextjs-toast-wrapper] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}

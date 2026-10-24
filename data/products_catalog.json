@@ -1,0 +1,1156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Yến Chưng Hạt Sen Táo Đỏ Nước Lá Nếp",
+      "subtitle": "Thanh mát hương lá nếp, dưỡng tâm an thần, bổ huyết",
+      "category": "Yến táo đỏ – hạt sen",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 5,
+      "reviews": 1420,
+      "emoji": "🌺",
+      "color": "linear-gradient(135deg,#FFF5F5 0%,#FFE0E0 100%)",
+      "image": "/images/product-sen-tao-do.jpg",
+      "slug": "yen-chung-hat-sen-tao-do-nuoc-la-nep",
+      "benefitIcons": [
+        {
+          "icon": "🌺",
+          "label": "Dưỡng tâm"
+        },
+        {
+          "icon": "🌿",
+          "label": "Lá nếp thơm"
+        },
+        {
+          "icon": "🌙",
+          "label": "Ngủ ngon"
+        }
+      ],
+      "tags": [
+        "Bán chạy nhất",
+        "Vị Cung Đình",
+        "Thơm nếp"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Hạt sen Huế",
+        "Táo đỏ Tân Cương",
+        "Nước cốt lá nếp tươi",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Hỗ trợ giấc ngủ sâu, an thần tĩnh tâm",
+        "Bổ khí huyết, làm hồng hào tươi nhuận làn da",
+        "Hương thơm lá nếp tự nhiên thanh dịu dễ uống"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Sự kết hợp hoàn mỹ giữa yến tươi chưng cách thủy cùng hạt sen bùi béo, táo đỏ ngọt thanh và nước cốt lá nếp thơm lừng tạo nên phong vị ngự thiện đặc sắc.",
+      "badge": "Bán chạy nhất",
+      "badgeColor": "bg-red-600",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "title": "Yến Chưng Hạt Sen Long Nhãn Nước Lá Nếp",
+      "subtitle": "Bổ can thận, ích trí minh mẫn, an giấc ngủ say",
+      "category": "Yến kỷ tử – nhãn nhục",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 980,
+      "emoji": "🫐",
+      "color": "linear-gradient(135deg,#FFFDF5 0%,#FDE8A0 100%)",
+      "image": "/images/product-sen-long-nhan.jpg",
+      "slug": "yen-chung-hat-sen-long-nhan-nuoc-la-nep",
+      "benefitIcons": [
+        {
+          "icon": "🧠",
+          "label": "Minh mẫn"
+        },
+        {
+          "icon": "🌿",
+          "label": "Lá nếp thơm"
+        },
+        {
+          "icon": "🌙",
+          "label": "Ngủ sâu"
+        }
+      ],
+      "tags": [
+        "Được yêu thích",
+        "Ích trí",
+        "Lá nếp"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Hạt sen Huế",
+        "Long nhãn Hưng Yên",
+        "Nước lá nếp tươi",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Bổ tâm tỳ, dưỡng huyết an thần, cải thiện trí nhớ",
+        "Hạt sen bở tơi quyện long nhãn giòn ngọt",
+        "Hương thơm lá nếp kích thích vị giác"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Vị ngọt thanh tự nhiên từ long nhãn quyện hương lá nếp dân dã và sợi yến tươi nguyên chất bồi bổ trí lực vượt trội.",
+      "badge": "Ưa chuộng",
+      "badgeColor": "bg-amber-600",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "title": "Yến Chưng Hạt Sen Kỷ Tử Nước Lá Nếp",
+      "subtitle": "Sáng mắt bổ can, tăng cường đề kháng tự nhiên",
+      "category": "Yến kỷ tử – nhãn nhục",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 860,
+      "emoji": "🍒",
+      "color": "linear-gradient(135deg,#FFF0F0 0%,#FFD4D4 100%)",
+      "image": "/images/product-sen-ky-tu.jpg",
+      "slug": "yen-chung-hat-sen-ki-tu-nuoc-la-nep",
+      "benefitIcons": [
+        {
+          "icon": "👁️",
+          "label": "Sáng mắt"
+        },
+        {
+          "icon": "🌺",
+          "label": "Bổ can thận"
+        },
+        {
+          "icon": "🛡️",
+          "label": "Đề kháng"
+        }
+      ],
+      "tags": [
+        "Sáng mắt",
+        "Dưỡng nhan",
+        "Đông y"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Hạt sen tươi",
+        "Kỷ tử đỏ Ninh Hạ",
+        "Nước lá nếp",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Giảm mỏi mắt cho người dùng máy tính nhiều",
+        "Chống oxy hóa mạnh mẽ, da sáng hồng",
+        "Thư giãn tinh thần, an giấc"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Sự giao hòa giữa vị ngọt đượm của kỷ tử đỏ, hạt sen bùi ngậy và nước lá nếp thơm ngát đem lại nguồn sinh khí tươi mới.",
+      "badge": "Bổ Mắt",
+      "badgeColor": "bg-violet-700",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "title": "Yến Chưng Long Nhãn Táo Đỏ Nước Lá Nếp",
+      "subtitle": "Đại bổ khí huyết, hồng hào sắc diện, ấm tỳ vị",
+      "category": "Yến táo đỏ – hạt sen",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 5,
+      "reviews": 1120,
+      "emoji": "🍎",
+      "color": "linear-gradient(135deg,#FFF0F0 0%,#FFE0E0 100%)",
+      "image": "/images/product-long-nhan-tao.jpg",
+      "slug": "yen-chung-long-nhan-tao-do-nuoc-la-nep",
+      "benefitIcons": [
+        {
+          "icon": "🩸",
+          "label": "Bổ huyết"
+        },
+        {
+          "icon": "✨",
+          "label": "Đẹp da"
+        },
+        {
+          "icon": "🌿",
+          "label": "Hương nếp"
+        }
+      ],
+      "tags": [
+        "Bổ khí huyết",
+        "Phụ nữ yêu thích"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Long nhãn Hưng Yên",
+        "Táo đỏ Tân Cương",
+        "Nước lá nếp",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Dưỡng huyết, chống thiếu máu và suy nhược",
+        "Giữ ẩm và tái sinh collagen tự nhiên cho da",
+        "Vị ngọt thanh tao, ấm bụng"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Công thức dưỡng nhan nổi tiếng hoàng cung giúp da dẻ nhuận hồng, giấc ngủ tròn vẹn.",
+      "badge": "Dưỡng Nhan",
+      "badgeColor": "bg-rose-700",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "title": "Yến Chưng Táo Đỏ Kỷ Tử Nước Lá Nếp",
+      "subtitle": "Dưỡng huyết an thần, tinh anh đôi mắt, tươi trẻ làn da",
+      "category": "Yến táo đỏ – hạt sen",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 790,
+      "emoji": "🌸",
+      "color": "linear-gradient(135deg,#FFF0F0 0%,#FFD4D4 100%)",
+      "image": "/images/product-tao-ky-tu.jpg",
+      "slug": "yen-chung-tao-do-ki-tu-nuoc-la-nep",
+      "benefitIcons": [
+        {
+          "icon": "👁️",
+          "label": "Bổ mắt"
+        },
+        {
+          "icon": "🩸",
+          "label": "Bổ huyết"
+        },
+        {
+          "icon": "💤",
+          "label": "An thần"
+        }
+      ],
+      "tags": [
+        "Bổ ngũ tạng",
+        "Thanh lọc"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Táo đỏ",
+        "Kỷ tử đỏ",
+        "Nước lá nếp thơm",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Tăng cường thị lực, chống lão hóa sớm",
+        "Bồi bổ nguyên khí cho người bận rộn",
+        "Hương vị thơm lừng hấp dẫn"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Sự kết hợp tinh túy của cặp đôi thảo dược táo đỏ & kỷ tử đỏ chưng cách thủy ngát hương lá nếp.",
+      "badge": "Thảo Dược",
+      "badgeColor": "bg-red-800",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "title": "Yến Chưng Lá Nếp Hạt Chia",
+      "subtitle": "Giàu Omega-3 & chất xơ, thanh lọc cơ thể, giữ dáng eo thon",
+      "category": "Yến đường phèn",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 5,
+      "reviews": 1530,
+      "emoji": "🫙",
+      "color": "linear-gradient(135deg,#FFF8DC 0%,#FFE8A0 100%)",
+      "image": "/images/product-hat-chia.jpg",
+      "slug": "yen-chung-la-nep-hat-chia",
+      "benefitIcons": [
+        {
+          "icon": "🌿",
+          "label": "Giàu chất xơ"
+        },
+        {
+          "icon": "✨",
+          "label": "Giữ dáng"
+        },
+        {
+          "icon": "🛡️",
+          "label": "Omega-3"
+        }
+      ],
+      "tags": [
+        "Thanh nhiệt",
+        "Hạt chia Organic",
+        "Giữ dáng"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Hạt chia hữu cơ Organic",
+        "Nước cốt lá nếp thơm",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Thanh lọc giải nhiệt độc, mát gan",
+        "Hỗ trợ tiêu hóa, duy trì vóc dáng thon gọn",
+        "Hạt chia giòn sần sật vui miệng"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Tuyệt phẩm thanh mát cho cả gia đình, từng hạt chia nở mọng trong nước yến lá nếp trong veo bổ dưỡng.",
+      "badge": "Thanh Mát",
+      "badgeColor": "bg-emerald-700",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "title": "Yến Chưng Dừa Tươi Kỷ Tử",
+      "subtitle": "Nước dừa xiêm ngọt mát lành, giải nhiệt, sáng mắt nhuận sắc",
+      "category": "Yến kỷ tử – nhãn nhục",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 4.9,
+      "reviews": 670,
+      "emoji": "🥥",
+      "color": "linear-gradient(135deg,#F0FDF4 0%,#E6FFFA 100%)",
+      "image": "/images/product-dua-tuoi-ky-tu.jpg",
+      "slug": "yen-chung-dua-tuoi-ky-tu",
+      "benefitIcons": [
+        {
+          "icon": "🥥",
+          "label": "Dừa tươi"
+        },
+        {
+          "icon": "👁️",
+          "label": "Sáng mắt"
+        },
+        {
+          "icon": "❄️",
+          "label": "Giải nhiệt"
+        }
+      ],
+      "tags": [
+        "Dừa xiêm tươi",
+        "Mát lành",
+        "Mới ra mắt"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Nước dừa xiêm nguyên chất",
+        "Kỷ tử đỏ",
+        "Cơm dừa non",
+        "Đường phèn"
+      ],
+      "benefits": [
+        "Bổ sung điện giải tự nhiên, làm mát tức thì",
+        "Dưỡng ẩm da từ sâu bên trong",
+        "Vị dừa béo bùi thoang thoảng"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 5 ngày ngăn mát",
+      "description": "Chưng hoàn toàn bằng nước dừa tươi nguyên chất, vị béo nhẹ mát lành quyện sợi yến tươi dai mềm.",
+      "badge": "Mới Ra Mắt",
+      "badgeColor": "bg-teal-700",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "title": "Yến Chưng Saffron (Nhụy Hoa Nghệ Tây)",
+      "subtitle": "Vàng đỏ Trung Đông, chống lão hóa đỉnh cao, giấc ngủ sâu",
+      "category": "Yến đường phèn",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 5,
+      "reviews": 840,
+      "emoji": "✨",
+      "color": "linear-gradient(135deg,#FEF9E7 0%,#FDEAA0 100%)",
+      "image": "/images/product-saffron.jpg",
+      "slug": "yen-chung-saffron",
+      "benefitIcons": [
+        {
+          "icon": "✨",
+          "label": "Chống lão hóa"
+        },
+        {
+          "icon": "🌙",
+          "label": "Ngủ sâu"
+        },
+        {
+          "icon": "👑",
+          "label": "Vàng đỏ"
+        }
+      ],
+      "tags": [
+        "Saffron Iran",
+        "Quý tộc",
+        "Chống lão hóa"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Nhụy hoa nghệ tây Saffron Iran Super Negin",
+        "Đường phèn thanh",
+        "Nước tinh khiết"
+      ],
+      "benefits": [
+        "Cân bằng nội tiết tố, da sáng mịn màng",
+        "Cải thiện chứng mất ngủ kinh niên",
+        "Chống oxy hóa tế bào cực mạnh"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Sự hòa quyện giữa yến sào và sợi vàng đỏ Saffron quý hiếm, màu nước vàng óng ả sang trọng.",
+      "badge": "Quý Tộc",
+      "badgeColor": "bg-amber-700",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "title": "Yến Chưng Gừng Tươi",
+      "subtitle": "Ấm bụng bổ phế, giải cảm mạo, kích thích tiêu hóa",
+      "category": "Yến đường phèn",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 4.8,
+      "reviews": 620,
+      "emoji": "🫚",
+      "color": "linear-gradient(135deg,#FFFDF5 0%,#FDE8A0 100%)",
+      "image": "/images/product-gung-se.jpg",
+      "slug": "yen-chung-gung",
+      "benefitIcons": [
+        {
+          "icon": "🫚",
+          "label": "Ấm tỳ vị"
+        },
+        {
+          "icon": "🫁",
+          "label": "Bổ phế"
+        },
+        {
+          "icon": "🛡️",
+          "label": "Ngừa cảm"
+        }
+      ],
+      "tags": [
+        "Ấm bụng",
+        "Truyền thống",
+        "Bổ phế"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Gừng tươi thái sợi",
+        "Đường phèn nguyên tảng",
+        "Nước tinh khiết"
+      ],
+      "benefits": [
+        "Làm ấm cơ thể, phòng cảm lạnh",
+        "Giảm ho tiêu đờm, hỗ trợ đường hô hấp",
+        "Vị cay ấm dịu nhẹ dễ chịu"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Gừng tươi thái chỉ thơm nồng chưng cùng sợi yến, thích hợp dùng vào sáng sớm hoặc buổi tối se lạnh.",
+      "badge": "Ấm Bụng",
+      "badgeColor": "bg-amber-800",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "title": "Yến Chưng Nấm Đông Trùng Hạ Thảo",
+      "subtitle": "Đại bổ nguyên khí, tăng sinh lực, bổ thận dưỡng phổi",
+      "category": "Yến đông trùng",
+      "price": 55000,
+      "originalPrice": 70000,
+      "volume": "Hũ 75ml",
+      "volumeOptions": [
+        {
+          "volume": "Hũ 75ml",
+          "price": 55000,
+          "originalPrice": 70000
+        },
+        {
+          "volume": "Hũ 100ml",
+          "price": 85000,
+          "originalPrice": 105000
+        },
+        {
+          "volume": "Hũ 150ml",
+          "price": 110000,
+          "originalPrice": 135000
+        },
+        {
+          "volume": "Hũ 200ml",
+          "price": 170000,
+          "originalPrice": 210000
+        }
+      ],
+      "rating": 5,
+      "reviews": 1350,
+      "emoji": "🌾",
+      "color": "linear-gradient(135deg,#F0FDF4 0%,#C6F6D5 100%)",
+      "image": "/images/product-dong-trung.jpg",
+      "slug": "yen-chung-nam-dong-trung-ha-thao",
+      "benefitIcons": [
+        {
+          "icon": "⚡",
+          "label": "Tăng sinh lực"
+        },
+        {
+          "icon": "🫁",
+          "label": "Bổ thận phổi"
+        },
+        {
+          "icon": "🛡️",
+          "label": "Miễn dịch"
+        }
+      ],
+      "tags": [
+        "Đại bổ",
+        "Đông Trùng",
+        "Bán chạy"
+      ],
+      "ingredients": [
+        "Yến tươi thiên nhiên 100%",
+        "Nấm đông trùng hạ thảo militaris",
+        "Đường phèn",
+        "Nước tinh khiết"
+      ],
+      "benefits": [
+        "Phục hồi thể lực sau ốm hoặc làm việc mệt mỏi",
+        "Tăng cường sức bền, cải thiện sinh lực",
+        "Hỗ trợ hô hấp và chức năng thận"
+      ],
+      "storage": "Bảo quản nơi thoáng mát hoặc ngăn mát tủ lạnh.",
+      "expiry": "Dùng ngon nhất trong ngày hoặc 7 ngày ngăn mát",
+      "description": "Sợi yến tươi nở dày kết hợp cùng sợi nấm đông trùng vàng tươi, mang đến hương vị thơm đậm đà bổ dưỡng.",
+      "badge": "Đại Bổ",
+      "badgeColor": "bg-emerald-800",
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "title": "Set Quà Biếu Yến – Hộp 4 Hũ",
+      "subtitle": "Tặng người thân ý nghĩa – sang trọng, trang nhã",
+      "category": "Set quà biếu",
+      "price": 380000,
+      "originalPrice": 480000,
+      "volume": "4 hũ × 70ml",
+      "rating": 4.9,
+      "reviews": 728,
+      "emoji": "🎁",
+      "color": "linear-gradient(135deg,#FFFBEB 0%,#FDE68A 100%)",
+      "benefitIcons": [
+        {
+          "icon": "🎀",
+          "label": "Quà biếu"
+        },
+        {
+          "icon": "📦",
+          "label": "4 vị khác nhau"
+        },
+        {
+          "icon": "💝",
+          "label": "Thiệp kèm miễn phí"
+        }
+      ],
+      "tags": [
+        "Quà biếu",
+        "Bán chạy",
+        "Tết"
+      ],
+      "ingredients": [
+        "2 hũ Yến đường phèn 8%",
+        "1 hũ Yến đông trùng 8%",
+        "1 hũ Yến táo đỏ hạt sen 8%"
+      ],
+      "benefits": [
+        "Bồi bổ toàn diện cho người nhận",
+        "Phù hợp mọi lứa tuổi, giới tính",
+        "Quà tặng ý nghĩa dịp lễ Tết, thăm hỏi",
+        "Hộp quà sang trọng, có thể ghi thiệp"
+      ],
+      "storage": "Bảo quản từng hũ nơi thoáng mát. Sau khi mở dùng ngay hoặc ngăn mát ≤ 24 giờ.",
+      "expiry": "6 tháng (ghi trên từng nắp hũ)",
+      "description": "Hộp quà 4 hũ yến phối vị đa dạng, phù hợp biếu tặng dịp Tết, sinh nhật, thăm người ốm. Kèm dây ruy băng và thiệp chúc miễn phí.",
+      "badge": "Quà Tết",
+      "badgeColor": "bg-yellow-600",
+      "inStock": true,
+      "image": "/images/product-set-qua.jpg",
+      "slug": "set-qua-bieu-yen-hop-4-hu"
+    },
+    {
+      "id": 17,
+      "title": "Set Quà Biếu Yến Đặc Biệt – Hộp 6 Hũ",
+      "subtitle": "Hộp quà cao cấp nhất – thể hiện lòng thành kính",
+      "category": "Set quà biếu",
+      "price": 720000,
+      "originalPrice": 900000,
+      "volume": "6 hũ × 70ml",
+      "rating": 5,
+      "reviews": 312,
+      "emoji": "🏆",
+      "color": "linear-gradient(135deg,#FFFFF0 0%,#FFE87A 100%)",
+      "benefitIcons": [
+        {
+          "icon": "👑",
+          "label": "VIP Gift"
+        },
+        {
+          "icon": "🫙",
+          "label": "12% yến cao cấp"
+        },
+        {
+          "icon": "🎋",
+          "label": "Hộp tái sử dụng"
+        }
+      ],
+      "tags": [
+        "Quà biếu",
+        "VIP",
+        "Cao cấp"
+      ],
+      "ingredients": [
+        "2 hũ Yến đường phèn 12%",
+        "2 hũ Yến đông trùng 12%",
+        "2 hũ Yến táo đỏ hạt sen 12%"
+      ],
+      "benefits": [
+        "Bộ quà yến hàm lượng cao nhất",
+        "Thể hiện sự trân trọng đặc biệt",
+        "Phù hợp biếu cấp trên, đối tác, người thân",
+        "Hộp đựng cao cấp tái sử dụng được"
+      ],
+      "storage": "Bảo quản từng hũ nơi thoáng mát. Sau khi mở dùng ngay hoặc ngăn mát ≤ 24 giờ.",
+      "expiry": "6 tháng (ghi trên từng nắp hũ)",
+      "description": "Bộ quà 6 hũ toàn hàm lượng 12%, đựng trong hộp trang nhã tái sử dụng được. Lựa chọn hoàn hảo để thể hiện sự trân quý đến những người bạn yêu thương nhất.",
+      "badge": "VIP",
+      "badgeColor": "bg-amber-700",
+      "inStock": true,
+      "image": "/images/product-set-qua.jpg",
+      "slug": "set-qua-bieu-yen-dac-biet-hop-6-hu"
+    },
+    {
+      "id": 11,
+      "title": "Tổ Yến Rút Lông Định Hình Hoàng Gia (100g - Loại To)",
+      "subtitle": "Tai yến già nguyên tổ đảo tự nhiên, sợi dài nở bung gấp 4-5 lần",
+      "category": "Yến tổ thượng hạng",
+      "price": 4600000,
+      "originalPrice": 5200000,
+      "volume": "Hộp 100g (10-12 tai yến to)",
+      "rating": 5,
+      "reviews": 184,
+      "emoji": "🪺",
+      "color": "linear-gradient(135deg,#FFFDF7 0%,#F5ECDA 100%)",
+      "benefitIcons": [
+        {
+          "icon": "👑",
+          "label": "Loại To 100g"
+        },
+        {
+          "icon": "✨",
+          "label": "Rút lông khô"
+        },
+        {
+          "icon": "🎁",
+          "label": "Hộp sơn mài"
+        }
+      ],
+      "tags": [
+        "Tổ Yến To",
+        "Rút Lông Khô",
+        "100g",
+        "Hoàng Gia"
+      ],
+      "ingredients": [
+        "100% Tổ yến đảo tự nhiên rút lông khô nguyên tai (100g)",
+        "Tặng kèm: Hộp sơn mài đỏ lụa vàng, thố chưng sứ hoàng gia, đường phèn kết tinh, táo đỏ Tân Cương, nhíp chuyên dụng"
+      ],
+      "benefits": [
+        "Bồi bổ toàn diện, hồi phục thể lực thần tốc",
+        "Chống lão hóa, tái tạo làn da tươi trẻ",
+        "Tăng cường miễn dịch cho người già và trẻ nhỏ",
+        "Tự tay chưng tại gia theo khẩu vị gia đình"
+      ],
+      "storage": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.",
+      "expiry": "2 năm kể từ ngày đóng gói",
+      "description": "Dòng tổ yến cao cấp nhất tuyển chọn từ các tai yến già nở bung sợi dài. Phương pháp rút lông khô giữ trọn vẹn chất dinh dưỡng và hình dáng tổ yến nguyên bản. Thích hợp tự chưng bồi dưỡng dài lâu hoặc làm quà biếu thượng đỉnh.",
+      "badge": "Loại To 100g",
+      "badgeColor": "bg-amber-900",
+      "inStock": true,
+      "image": "/images/product-to-yen.jpg",
+      "slug": "to-yen-rut-long-dinh-hinh-hoang-gia-100g"
+    },
+    {
+      "id": 12,
+      "title": "Tổ Yến Tinh Chế Sợi Dài Thượng Hạng (50g - Loại Nhỏ)",
+      "subtitle": "Tai yến sạch lông trắng ngà, tiện lợi chưng ngay, bồi bổ cả gia đình",
+      "category": "Yến tổ thượng hạng",
+      "price": 2400000,
+      "originalPrice": 2800000,
+      "volume": "Hộp 50g (5-6 tai yến)",
+      "rating": 4.9,
+      "reviews": 240,
+      "emoji": "🪺",
+      "color": "linear-gradient(135deg,#FFFDF7 0%,#F5ECDA 100%)",
+      "benefitIcons": [
+        {
+          "icon": "💎",
+          "label": "Loại Nhỏ 50g"
+        },
+        {
+          "icon": "🌿",
+          "label": "Sạch lông 100%"
+        },
+        {
+          "icon": "🥣",
+          "label": "Chưng ngay"
+        }
+      ],
+      "tags": [
+        "Tổ Yến Nhỏ",
+        "Tinh Chế",
+        "50g",
+        "Thượng Hạng"
+      ],
+      "ingredients": [
+        "100% Tổ yến tinh chế sợi dài sấy khô tiệt trùng (50g)",
+        "Tặng kèm: Táo đỏ Tân Cương, đường phèn thanh mát, cẩm nang chưng yến bí truyền"
+      ],
+      "benefits": [
+        "Đã làm sạch lông 100%, chỉ cần ngâm nở chưng ngay 20 phút",
+        "Hàm lượng protein và vi khoáng tự nhiên cao",
+        "Bồi bổ khí huyết, an thần ngủ ngon sâu giấc",
+        "Khẩu phần phù hợp dùng 1-2 tháng cho gia đình nhỏ"
+      ],
+      "storage": "Bảo quản nơi khô ráo, thoáng mát, tránh ẩm mốc.",
+      "expiry": "2 năm kể từ ngày đóng gói",
+      "description": "Tổ yến đã được nghệ nhân làm sạch tỉ mỉ từng sợi lông tơ, ép định hình tai yến tiêu chuẩn và sấy tiệt trùng. Rất tiện lợi cho gia đình muốn tự tay chưng hũ yến nóng mỗi ngày.",
+      "badge": "Loại Nhỏ 50g",
+      "badgeColor": "bg-amber-800",
+      "inStock": true,
+      "image": "/images/product-to-yen.jpg",
+      "slug": "to-yen-tinh-che-soi-dai-thuong-hang-50g"
+    },
+    {
+      "id": 13,
+      "title": "Tổ Yến Baby Viên Chia Sẵn Tiện Lợi (50g - Loại Nhỏ)",
+      "subtitle": "Chia sẵn từng viên vừa 1 lần chưng, tối ưu cho bé ăn dặm và người bận rộn",
+      "category": "Yến tổ thượng hạng",
+      "price": 1750000,
+      "originalPrice": 2100000,
+      "volume": "Hộp 50g (10-12 viên baby)",
+      "rating": 4.9,
+      "reviews": 195,
+      "emoji": "👶",
+      "color": "linear-gradient(135deg,#FFFDF7 0%,#F5ECDA 100%)",
+      "benefitIcons": [
+        {
+          "icon": "👶",
+          "label": "Cho Bé"
+        },
+        {
+          "icon": "⚡",
+          "label": "Chia sẵn viên"
+        },
+        {
+          "icon": "💰",
+          "label": "Tiết kiệm"
+        }
+      ],
+      "tags": [
+        "Tổ Yến Baby",
+        "Cho Bé",
+        "Tiện Lợi",
+        "50g"
+      ],
+      "ingredients": [
+        "100% Sợi yến tươi tinh chế sấy thăng hoa đóng viên (50g)",
+        "Tặng kèm: Đường phèn hạt, táo đỏ thái lát"
+      ],
+      "benefits": [
+        "Mỗi lần dùng chỉ cần lấy đúng 1 viên chưng 20 phút là xong",
+        "Đặc biệt kích thích tiêu hóa, giúp bé ăn ngon miệng",
+        "Tiết kiệm chi phí, không lãng phí khẩu phần"
+      ],
+      "storage": "Bảo quản nơi khô ráo, đậy kín sau khi mở nắp hộp.",
+      "expiry": "2 năm kể từ ngày đóng gói",
+      "description": "Yến viên baby được đúc khuôn từng phần ăn tiêu chuẩn, đặc biệt được các mẹ tin dùng để bổ sung dưỡng chất định kỳ cho con nhỏ hoặc người lớn tuổi dùng đều đặn.",
+      "badge": "Cho Bé & Cả Nhà",
+      "badgeColor": "bg-emerald-800",
+      "inStock": true,
+      "image": "/images/product-to-yen.jpg",
+      "slug": "to-yen-baby-vien-chia-san-50g"
+    },
+    {
+      "id": 14,
+      "title": "Set Quà Biếu Hoàng Kim Bát Tiên (Hộp 8 Hũ)",
+      "subtitle": "Đủ 8 vị ngự chưng thảo dược Đông Y bồi bổ ngũ tạng trong hộp gấm hoàng gia",
+      "category": "Set quà biếu",
+      "price": 980000,
+      "originalPrice": 1200000,
+      "volume": "8 hũ × 70ml",
+      "rating": 5,
+      "reviews": 218,
+      "emoji": "🎁",
+      "color": "linear-gradient(135deg,#FFFFF0 0%,#FFE87A 100%)",
+      "benefitIcons": [
+        {
+          "icon": "👑",
+          "label": "Bát Tiên 8 Vị"
+        },
+        {
+          "icon": "🏮",
+          "label": "Hộp Gấm Đỏ"
+        },
+        {
+          "icon": "✨",
+          "label": "Ngũ Tạng"
+        }
+      ],
+      "tags": [
+        "Quà Biếu VIP",
+        "8 Vị Đông Y",
+        "Hoàng Kim",
+        "Gấm Đỏ"
+      ],
+      "ingredients": [
+        "8 hũ yến chưng tươi đủ 8 vị Đông Y: Đường phèn, Hạt sen Huế, Táo đỏ, Sâu đông trùng, Kỷ tử, Long nhãn, Hạt chia, Gừng tươi",
+        "Hộp quà gấm lụa hoàng gia, quai xách vàng kim, thiệp chúc thư pháp"
+      ],
+      "benefits": [
+        "Món quà sức khỏe trọn vẹn và ý nghĩa nhất dành tặng người trân quý",
+        "Trang trọng, quý phái biếu đối tác, cấp trên và trưởng bối",
+        "Trải nghiệm đủ các phong vị ngự y cung đình tinh túy"
+      ],
+      "storage": "Bảo quản từng hũ nơi thoáng mát. Sau khi mở dùng ngay hoặc ngăn mát ≤ 24 giờ.",
+      "expiry": "6 tháng (ghi trên từng nắp hũ)",
+      "description": "Bộ quà 8 hũ đại diện cho Bát Tiên Quá Hải, mang ý nghĩa chúc vạn sự cát tường, trường thọ an khang. Từng hũ chưng tươi nguyên chất với dược liệu tuyển trạch bồi bổ ngũ tạng.",
+      "badge": "Set 8 Hũ VIP",
+      "badgeColor": "bg-amber-800",
+      "inStock": true,
+      "image": "/images/product-set-qua.jpg",
+      "slug": "set-qua-bieu-hoang-kim-bat-tien-8-hu"
+    },
+    {
+      "id": 15,
+      "title": "Set Quà Biếu Thượng Hạng Đại Cát (6 Hũ Lớn 150ml)",
+      "subtitle": "Hũ lớn gấp đôi, hàm lượng yến đậm đặc 12% – Đẳng cấp quà biếu thượng đỉnh",
+      "category": "Set quà biếu",
+      "price": 1150000,
+      "originalPrice": 1450000,
+      "volume": "6 hũ lớn × 150ml",
+      "rating": 5,
+      "reviews": 165,
+      "emoji": "🏆",
+      "color": "linear-gradient(135deg,#FFFFF0 0%,#FFE87A 100%)",
+      "benefitIcons": [
+        {
+          "icon": "🏺",
+          "label": "Hũ Lớn 150ml"
+        },
+        {
+          "icon": "💎",
+          "label": "12% Yến Đặc"
+        },
+        {
+          "icon": "👑",
+          "label": "Thượng Đỉnh"
+        }
+      ],
+      "tags": [
+        "Quà Biếu Đại Cát",
+        "Hũ Lớn 150ml",
+        "12% Yến",
+        "Thượng Hạng"
+      ],
+      "ingredients": [
+        "6 hũ lớn 150ml đậm đặc 12% yến tươi (2 Đông trùng 150ml + 2 Sen Táo 150ml + 2 Đường phèn 150ml)",
+        "Hộp cứng phủ nhung đỏ chu sa hoàng gia, nẹp viền chỉ vàng"
+      ],
+      "benefits": [
+        "Dung tích lớn bồi bổ dài ngày cho người thân yêu",
+        "Đậm đặc từng muỗng yến sợi nở sần sật béo ngậy",
+        "Khẳng định đẳng cấp người tặng và lòng chân thành tuyệt đối"
+      ],
+      "storage": "Bảo quản từng hũ nơi thoáng mát. Sau khi mở dùng ngay hoặc ngăn mát ≤ 24 giờ.",
+      "expiry": "6 tháng (ghi trên từng nắp hũ)",
+      "description": "Hộp quà 6 hũ dung tích lớn 150ml với hàm lượng yến đậm đặc 12%. Thể hiện sự tôn kính và chu đáo tối cao khi trao tặng cho bậc phụ mẫu hoặc đối tác trọng đại.",
+      "badge": "Hũ Lớn 150ml",
+      "badgeColor": "bg-red-900",
+      "inStock": true,
+      "image": "/images/product-set-qua.jpg",
+      "slug": "set-qua-bieu-thuong-hang-dai-cat-6-hu"
+    }
+  ],
+  "vip_product": {
+    "id": 0,
+    "isVIP": true,
+    "title": "Yến Thượng Hạng Sâu Đông Trùng Nguyên Con",
+    "subtitle": "Đỉnh cao tinh hoa – Yến sào hảo hạng ngâm sâu đông trùng nguyên con nhập khẩu",
+    "description": "Hũ yến sào cao cấp nhất của Bếp Yến Ocean: yến sào tự nhiên chưng cách thủy kết hợp sâu đông trùng hạ thảo nguyên con nhập khẩu. Mỗi con sâu được kiểm định chất lượng, ngâm trực tiếp vào hũ yến trước khi chưng – giải phóng toàn bộ dưỡng chất quý hiếm. Vị thanh đắng nhẹ, cực kỳ bổ dưỡng, phù hợp cho người cần hồi phục nhanh hoặc biếu tặng người thân cần bồi bổ đặc biệt.",
+    "baseFlavors": [
+      {
+        "id": 1,
+        "name": "Đường Phèn Nguyên Chất 70ml",
+        "price": 80000
+      },
+      {
+        "id": 2,
+        "name": "Đường Phèn Cao Cấp 150ml",
+        "price": 150000
+      },
+      {
+        "id": 3,
+        "name": "Táo Đỏ Bồi Bổ 70ml",
+        "price": 85000
+      },
+      {
+        "id": 4,
+        "name": "Táo Đỏ Hạt Sen Premium 70ml",
+        "price": 95000
+      },
+      {
+        "id": 5,
+        "name": "Đông Trùng Hạ Thảo 70ml",
+        "price": 95000
+      },
+      {
+        "id": 6,
+        "name": "Đông Trùng Cao Cấp 150ml",
+        "price": 185000
+      },
+      {
+        "id": 7,
+        "name": "Kỷ Tử Nhãn Nhục 70ml",
+        "price": 90000
+      },
+      {
+        "id": 8,
+        "name": "Kỷ Tử Nhãn Nhục Cao Cấp 150ml",
+        "price": 165000
+      },
+      {
+        "id": 9,
+        "name": "Set Quà 4 Hũ",
+        "price": 380000
+      },
+      {
+        "id": 10,
+        "name": "Set Quà 6 Hũ VIP",
+        "price": 720000
+      }
+    ],
+    "wormPrice": 400000,
+    "maxWorms": 2,
+    "badge": "THƯỢNG HẠNG",
+    "image": "/images/product-vip-sau.jpg",
+    "slug": "yen-thuong-hang-sau-dong-trung-nguyen-con"
+  }
+}
